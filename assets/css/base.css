@@ -1,0 +1,34 @@
+:root{
+    --primary-color:#1b1111;
+    --white-color:#ccc;
+}
+
+*{
+    padding: 0; 
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family:"Poppins",sans-serif;
+}
+
+@keyframes slideInBottom {
+    from {
+        transform: translateY(50%);
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
