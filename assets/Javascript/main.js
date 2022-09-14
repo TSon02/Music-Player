@@ -53,71 +53,71 @@ const app={
         {
             name:'See You Again',
             singer:'Wiz Khalifa',
-            path:'/assets/music/See You Again ft. Charlie Puth [320] - charlie puth - Zing MP3.mp3',
-            image:'/assets/img/See You Again.jpg',
+            path:'./assets/music/See You Again ft. Charlie Puth [320] - charlie puth - Zing MP3.mp3',
+            image:'./assets/img/See You Again.jpg',
         },
     
         {
             name:`We Don't Talk Anymore`,
             singer:'Charlie Puth',
-            path:`/assets/music/We Don't Talk Anymore - Charlie Puth, Selena Gomez - we don't talk anymore.mp3`,
-            image:`/assets/img/We Don't Talk Anymore.jpeg`,
+            path:`./assets/music/We Don't Talk Anymore - Charlie Puth, Selena Gomez - we don't talk anymore.mp3`,
+            image:`./assets/img/We Don't Talk Anymore.jpeg`,
         },
     
         {
             name:'Little Do You Know',
             singer:'Alex & Sierra',
-            path:'/assets/music/Little Do You Know- Alex & Sierra.mp3',
-            image:`/assets/img/imgB.jpeg`,
+            path:'./assets/music/Little Do You Know- Alex & Sierra.mp3',
+            image:`./assets/img/imgB.jpeg`,
         },
     
         {
             name:'Too Late',
             singer:'Addie Nicole',
-            path:'/assets/music/Too Late- OmgLoSteve, Addie Nicole.mp3',
-            image:'/assets/img/imgG.jpeg',
+            path:'./assets/music/Too Late- OmgLoSteve, Addie Nicole.mp3',
+            image:'./assets/img/imgG.jpeg',
         },
     
         {
             name:'Attention',
             singer:'Charlie Puth',
-            path:'/assets/music/Attention - Charlie Puth.mp3',
-            image:'/assets/img/imgD.jpeg',
+            path:'./assets/music/Attention - Charlie Puth.mp3',
+            image:'./assets/img/imgD.jpeg',
         },
     
         {
             name:'Versace',
             singer:'The Same Persons',
-            path:'/assets/music/Versace- The same Persons.mp3',
-            image:'/assets/img/imgE.jpeg',
+            path:'./assets/music/Versace- The same Persons.mp3',
+            image:'./assets/img/imgE.jpeg',
         },
     
         {
             name:'Set Fire To The Rain',
             singer:'Rain Adele ft. Vahn',
-            path:'/assets/music/Set Fire To The Rain- Adele.mp3',
-            image:'/assets/img/imgF.jpeg',
+            path:'./assets/music/Set Fire To The Rain- Adele.mp3',
+            image:'./assets/img/imgF.jpeg',
         },
     
         {
             name:'Trap Queen Remix',
             singer:'Adriana Gomez',
-            path:'/assets/music/Trap Queen (Eightfold MKJ Remix)- Adriana Gomez, Eightfold MKJ.mp3',
-            image:'/assets/img/imgH.jpeg',
+            path:'./assets/music/Trap Queen (Eightfold MKJ Remix)- Adriana Gomez, Eightfold MKJ.mp3',
+            image:'./assets/img/imgH.jpeg',
         },
     
         {
             name:'Shape of You',
             singer:'Ed Sheeran',
-            path:'/assets/music/Shape of You.mp3',
-            image:'/assets/img/imgK.jpg',
+            path:'./assets/music/Shape of You.mp3',
+            image:'./assets/img/imgK.jpg',
         },
     
         {
             name:'Rockabye',
             singer:'Clean Bandit',
-            path:'/assets/music/Rockabye- Clean Bandit; Sean Paul; Anne-Marie.mp3',
-            image:'/assets/img/imgA.jpg',
+            path:'./assets/music/Rockabye- Clean Bandit; Sean Paul; Anne-Marie.mp3',
+            image:'./assets/img/imgA.jpg',
         },
     ],
 
